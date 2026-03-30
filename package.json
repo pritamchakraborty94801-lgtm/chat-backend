@@ -4,5 +4,11 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "dependencies": {
+  "express": "...",
+  "socket.io": "...",
+  "mongoose": "...",
+  "cors": "..."
+}
 }
